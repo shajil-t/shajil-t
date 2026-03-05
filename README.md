@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Shajil
 
-<!--
-**shajil-t/shajil-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer focused on building high-performance distributed systems and real-time analytics platforms.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Node.js
+- Redis
+- MongoDB
+- Kubernetes
+- AWS
+- React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Interests
+- Real-time data processing
+- Distributed systems
+- Event-driven architecture
+- Performance optimization
+
+## 📫 Connect with me
+- LinkedIn

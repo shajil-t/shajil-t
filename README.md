@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shajil
 
-Backend engineer focused on building high-performance distributed systems and real-time analytics platforms.
+Backend/full-stack engineer focused on building high-performance distributed systems and real-time analytics platforms.
 
 ## 🚀 Tech Stack
 - Node.js
@@ -9,6 +9,7 @@ Backend engineer focused on building high-performance distributed systems and re
 - Kubernetes
 - AWS
 - React.js
+- BigQuery
 
 ## ⚡ Interests
 - Real-time data processing
@@ -17,4 +18,4 @@ Backend engineer focused on building high-performance distributed systems and re
 - Performance optimization
 
 ## 📫 Connect with me
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/shajil-thottungal/)
